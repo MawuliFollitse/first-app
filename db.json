@@ -1,0 +1,204 @@
+{
+    "locations": [
+        {
+            "id": 0,
+            "name": "Acme Fresh Start Housing",
+            "city": "Paris",
+            "state": "Île-de-France",
+            "photo": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/wp-content/uploads/2021/08/download-7.jpg",
+            "availableUnits": 4,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 1,
+            "name": "Sunset Villas",
+            "city": "Marseille",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "photo": "https://lecaninole.fr/wp-content/uploads/2021/01/tiny-house-1200x720.jpg",
+            "availableUnits": 2,
+            "wifi": true,
+            "laundry": false
+        },
+        {
+            "id": 2,
+            "name": "Pine Tree Apartments",
+            "city": "Lyon",
+            "state": "Auvergne-Rhône-Alpes",
+            "photo": "https://www.livehome3d.com/assets/img/articles/design-house/how-to-design-a-house.jpg",
+            "availableUnits": 5,
+            "wifi": false,
+            "laundry": true
+        },
+        {
+            "id": 3,
+            "name": "Maple Leaf Residences",
+            "city": "Toulouse",
+            "state": "Occitanie",
+            "photo": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/wp-content/uploads/2021/08/download-7.jpg",
+            "availableUnits": 3,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 4,
+            "name": "Ocean Breeze Apartments",
+            "city": "Nice",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "photo": "https://lecaninole.fr/wp-content/uploads/2021/01/tiny-house-1200x720.jpg",
+            "availableUnits": 6,
+            "wifi": false,
+            "laundry": false
+        },
+        {
+            "id": 5,
+            "name": "Mountain View Homes",
+            "city": "Nantes",
+            "state": "Pays de la Loire",
+            "photo": "https://www.livehome3d.com/assets/img/articles/design-house/how-to-design-a-house.jpg",
+            "availableUnits": 1,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 6,
+            "name": "Lakeside Apartments",
+            "city": "Strasbourg",
+            "state": "Grand Est",
+            "photo": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/wp-content/uploads/2021/08/download-7.jpg",
+            "availableUnits": 4,
+            "wifi": true,
+            "laundry": false
+        },
+        {
+            "id": 7,
+            "name": "City Center Residences",
+            "city": "Montpellier",
+            "state": "Occitanie",
+            "photo": "https://lecaninole.fr/wp-content/uploads/2021/01/tiny-house-1200x720.jpg",
+            "availableUnits": 2,
+            "wifi": false,
+            "laundry": true
+        },
+        {
+            "id": 8,
+            "name": "Greenfield Apartments",
+            "city": "Bordeaux",
+            "state": "Nouvelle-Aquitaine",
+            "photo": "https://www.livehome3d.com/assets/img/articles/design-house/how-to-design-a-house.jpg",
+            "availableUnits": 3,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 9,
+            "name": "Riverside Residences",
+            "city": "Lille",
+            "state": "Hauts-de-France",
+            "photo": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/wp-content/uploads/2021/08/download-7.jpg",
+            "availableUnits": 5,
+            "wifi": false,
+            "laundry": false
+        },
+        {
+            "id": 10,
+            "name": "Sunnyvale Apartments",
+            "city": "Rennes",
+            "state": "Brittany",
+            "photo": "https://lecaninole.fr/wp-content/uploads/2021/01/tiny-house-1200x720.jpg",
+            "availableUnits": 4,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 11,
+            "name": "Hilltop Residences",
+            "city": "Reims",
+            "state": "Grand Est",
+            "photo": "https://www.livehome3d.com/assets/img/articles/design-house/how-to-design-a-house.jpg",
+            "availableUnits": 2,
+            "wifi": true,
+            "laundry": false
+        },
+        {
+            "id": 12,
+            "name": "Cedar Park Apartments",
+            "city": "Le Havre",
+            "state": "Normandy",
+            "photo": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/wp-content/uploads/2021/08/download-7.jpg",
+            "availableUnits": 6,
+            "wifi": false,
+            "laundry": true
+        },
+        {
+            "id": 13,
+            "name": "Elm Street Residences",
+            "city": "Saint-Étienne",
+            "state": "Auvergne-Rhône-Alpes",
+            "photo": "https://lecaninole.fr/wp-content/uploads/2021/01/tiny-house-1200x720.jpg",
+            "availableUnits": 3,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 14,
+            "name": "Willow Creek Apartments",
+            "city": "Toulon",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "photo": "https://www.livehome3d.com/assets/img/articles/design-house/how-to-design-a-house.jpg",
+            "availableUnits": 5,
+            "wifi": false,
+            "laundry": false
+        },
+        {
+            "id": 15,
+            "name": "Oakwood Residences",
+            "city": "Grenoble",
+            "state": "Auvergne-Rhône-Alpes",
+            "photo": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/wp-content/uploads/2021/08/download-7.jpg",
+            "availableUnits": 4,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 16,
+            "name": "Birchwood Apartments",
+            "city": "Dijon",
+            "state": "Bourgogne-Franche-Comté",
+            "photo": "https://lecaninole.fr/wp-content/uploads/2021/01/tiny-house-1200x720.jpg",
+            "availableUnits": 2,
+            "wifi": true,
+            "laundry": false
+        },
+        {
+            "id": 17,
+            "name": "Spruce Street Residences",
+            "city": "Angers",
+            "state": "Pays de la Loire",
+            "photo": "https://www.livehome3d.com/assets/img/articles/design-house/how-to-design-a-house.jpg",
+            "availableUnits": 1,
+            "wifi": false,
+            "laundry": true
+        },
+        {
+            "id": 18,
+            "name": "Redwood Apartments",
+            "city": "Nîmes",
+            "state": "Occitanie",
+            "photo": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/wp-content/uploads/2021/08/download-7.jpg",
+            "availableUnits": 3,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 19,
+            "name": "Aspen Grove Residences",
+            "city": "Aix-en-Provence",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "photo": "https://lecaninole.fr/wp-content/uploads/2021/01/tiny-house-1200x720.jpg",
+            "availableUnits": 5,
+            "wifi": false,
+            "laundry": false
+        }
+    ]
+}
