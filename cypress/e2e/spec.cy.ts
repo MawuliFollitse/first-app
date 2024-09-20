@@ -26,7 +26,7 @@ describe('Application E2E Tests', () => {
     // Remplir les champs du formulaire
     cy.get('input[formControlName="firstName"]').type('John'); // Remplacez par le sélecteur et la valeur appropriés
     cy.get('input[formControlName="lastName"]').type('Doe'); // Remplacez par le sélecteur et la valeur appropriés
-    cy.get('input[formControlName="email"]').type('john.doe@example.com'); // Remplacez par le sélecteur et la valeur appropriés
+    cy.get('input[formControlName="email"]').type('john.doe@examplecom'); // Remplacez par le sélecteur et la valeur appropriés
 
     // Soumettre le formulaire
     cy.get('form').submit();
